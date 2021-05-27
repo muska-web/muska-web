@@ -9,7 +9,7 @@
 
 - 👨‍💻 Current Internship **1. As a Data Scientist with Juppiter Ai Labs, Pune 2. Content Creator with Ecode Networks, UK**
 
-- 📝 Check out my blog on [https://muskanagrawal1309.blogs](https://muskanagrawal1309.blogs)
+- 📝 Check out my blog on [https://muskanagrawal1309.blogspot.com](https://muskanagrawal1309.blogspot.com)
 
 - 🤝Core Member of **Indian Robotics Community, STAC_ADYPU**
 
