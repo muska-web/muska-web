@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RHCSA(Linux), Docker, Kubernetes, AWS, Python- Rest APIs from LEAP ACADEMY**
 
-- 📄 Publications **2**
+- 📄 **Publications** **1.** http://www.ijaconline.com/wp-content/uploads/2020/06/IEEE-plagiarism-final.pdf **2.** https://turcomat.org/index.php/turkbilmat/article/view/8162
 
 - 👨‍💻 Current Internship **1. As a Data Scientist with Juppiter Ai Labs, Pune 2. Content Creator with Ecode Networks, UK**
 
