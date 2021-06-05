@@ -25,6 +25,8 @@
 <a href="https://twitter.com/agrawalmuskan13"><img src="https://img.shields.io/badge/-Muskan%20Agrawal-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muska-web&label=Profile%20views&color=0e75b6&style=flat" alt="muskan-agrawal" /> </p>
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***TechStack...***
 
 <h3 align="left">Languages and Tools:</h3>
