@@ -1,24 +1,17 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muskan Agrawal</h1>
 <h3 align="center">Data Analyst, Business Analyst, Salesforce Analyst</h3>
 
-- 👋 Hi, I’m a Data Analyst passionate about turning data into actionable insights.
-- 📊 I work on Salesforce, Microsoft Dynamics 365, Excel, Confluence, JIRA and data visualization tools like Tableau and Power BI.
-- 🧠 Skilled in data cleaning, analysis, and storytelling with data.
-- 📈 I love solving real-world problems with data and building dashboards, reports, and predictive models.
+- 👋 Hi, I’m a **Data Analyst** passionate about turning data into actionable insights.
+- 📊 I work on **Salesforce, Microsoft Dynamics 365, Excel, Confluence, JIRA and data visualization tools like Tableau and Power BI.**
+- 🧠 Skilled in **data cleaning, analysis, and storytelling with data.**
+- 📈 I love solving real-world problems with data and building **dashboards, reports, and predictive models.**
 - 💼 Always learning—currently exploring machine learning and advanced analytics.
 - 📫 Let’s connect! I'm open to collaborations and new opportunities.
-
-- 🔭 My Projects **Credit Card Fraud Detection, Virtual Assistant, Chatbot, Line following Robot, Arduino based Smart Dustbin Dustbin, Website Building....**
-
-- 🌱 I’m currently learning **RHCSA(Linux), Docker, Kubernetes, AWS, Python- Rest APIs from LEAP ACADEMY**
-
-- 📄 **Publications** **1.** http://www.ijaconline.com/wp-content/uploads/2020/06/IEEE-plagiarism-final.pdf **2.** https://turcomat.org/index.php/turkbilmat/article/view/8162
-
-- 👨‍💻 Current Internship **1. As a Data Scientist with Juppiter Ai Labs, Pune 2. Content Creator with Ecode Networks, UK**
-
+- 🌱 Currently working at **Larsen & Toubro Limited. as Associate Analyst**
+- 📄 My Publications **1.** http://www.ijaconline.com/wp-content/uploads/2020/06/IEEE-plagiarism-final.pdf **2.** https://turcomat.org/index.php/turkbilmat/article/view/8162
+- 👨‍💻 I was Intern @ **1.** Website Developer with **Birlasoft, Pune** **2.** Software Engineer with **HCL, Bangalore** **3.** Data Scientist with **Juppiter Ai Labs, Pune** **4.** Content Creator with **Ecode Networks, UK**
 - 📝 Check out my blog on [https://muskanagrawal1309.blogspot.com](https://muskanagrawal1309.blogspot.com)
-
-- 🤝Core Member of **Indian Robotics Community, STAC_ADYPU**
+- 🤝Core Member of Indian Robotics Community and STAC_ADYPU
 
 - 📫 How to reach me
 
