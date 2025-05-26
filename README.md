@@ -1,6 +1,13 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muskan Agrawal</h1>
 <h3 align="center">Data Analyst, Business Analyst, Salesforce Analyst</h3>
 
+- 👋 Hi, I’m a Data Analyst passionate about turning data into actionable insights.
+- 📊 I work on Salesforce, Microsoft Dynamics 365, Excel, Confluence, JIRA and data visualization tools like Tableau and Power BI.
+- 🧠 Skilled in data cleaning, analysis, and storytelling with data.
+- 📈 I love solving real-world problems with data and building dashboards, reports, and predictive models.
+- 💼 Always learning—currently exploring machine learning and advanced analytics.
+- 📫 Let’s connect! I'm open to collaborations and new opportunities.
+
 - 🔭 My Projects **Credit Card Fraud Detection, Virtual Assistant, Chatbot, Line following Robot, Arduino based Smart Dustbin Dustbin, Website Building....**
 
 - 🌱 I’m currently learning **RHCSA(Linux), Docker, Kubernetes, AWS, Python- Rest APIs from LEAP ACADEMY**
