@@ -5,9 +5,9 @@
 - 📊 I work on **Salesforce, Microsoft Dynamics 365, Excel, Confluence, JIRA and data visualization tools like Tableau and Power BI.**
 - 🧠 Skilled in **data cleaning, analysis, and storytelling with data.**
 - 📈 I love solving real-world problems with data and building **dashboards, reports, and predictive models.**
-- 💼 Always learning—currently exploring machine learning and advanced analytics.
+- 🌱 Always learning—currently exploring machine learning and advanced analytics.
 - 📫 Let’s connect! I'm open to collaborations and new opportunities.
-- 🌱 Currently working at **Larsen & Toubro Limited. as Associate Analyst**
+- 💼 Currently working at **Larsen & Toubro Limited. as Associate Analyst**
 - 📄 My Publications **1.** http://www.ijaconline.com/wp-content/uploads/2020/06/IEEE-plagiarism-final.pdf **2.** https://turcomat.org/index.php/turkbilmat/article/view/8162
 - 👨‍💻 I was Intern @ **1.** Website Developer with **Birlasoft, Pune** **2.** Software Engineer with **HCL, Bangalore** **3.** Data Scientist with **Juppiter Ai Labs, Pune** **4.** Content Creator with **Ecode Networks, UK**
 - 📝 Check out my blog on [https://muskanagrawal1309.blogspot.com](https://muskanagrawal1309.blogspot.com)
