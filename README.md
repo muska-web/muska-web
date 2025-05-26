@@ -1,5 +1,5 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muskan Agrawal</h1>
-<h3 align="center">Data Scientist, Software Engineer</h3>
+<h3 align="center">Data Analyst, Business Analyst, Salesforce Analyst</h3>
 
 - 🔭 My Projects **Credit Card Fraud Detection, Virtual Assistant, Chatbot, Line following Robot, Arduino based Smart Dustbin Dustbin, Website Building....**
 
