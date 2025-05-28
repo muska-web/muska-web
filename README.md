@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/muskaanagrawal"><img src="https://img.shields.io/badge/-Muskan%20Agrawal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:muskan.agrawal@adypu.edu.in"><img src="https://img.shields.io/badge/-muskan.agrawal@adypu.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:muskanagrawal1398@gmail.com"><img src="https://img.shields.io/badge/-muskanagrawal1398@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://fb.com/muskanagrawal1309"><img src="https://img.shields.io/badge/-Muskan%20Agrawal-4267B2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/_sugary_sweeet_mussu__"><img src="https://img.shields.io/badge/-@__sugary__sweeet__mussu____-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/agrawalmuskan13"><img src="https://img.shields.io/badge/-Muskan%20Agrawal-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
